@@ -397,9 +397,6 @@ PRODUCT_PACKAGES += \
     libwfdaac_vendor \
     vendor.display.config@2.0.so
 
-PRODUCT_BOOT_JARS += \
-    WfdCommon
-
 # ZRAM writeback
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.zram.mark_idle_delay_mins=60 \
