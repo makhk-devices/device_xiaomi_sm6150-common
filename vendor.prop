@@ -123,7 +123,6 @@ debug.sf.earlyGl.app.duration=16600000
 debug.renderengine.backend=skiaglthreaded
 debug.sf.enable_hwc_vds=1
 debug.sf.hw=0
-debug.sf.frame_rate_multiple_threshold=120
 ro.surface_flinger.protected_contents=true
 renderthread.skia.reduceopstasksplitting=true
 ro.hardware.egl=adreno
